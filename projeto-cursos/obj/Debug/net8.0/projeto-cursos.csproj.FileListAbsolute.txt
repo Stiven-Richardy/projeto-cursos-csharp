@@ -1,0 +1,70 @@
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.exe
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.deps.json
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.runtimeconfig.json
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.dll
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.pdb
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.AssemblyInfoInputs.cache
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.AssemblyInfo.cs
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.csproj.CoreCompileInputs.cache
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.dll
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\obj\Debug\net8.0\refint\projeto-cursos.dll
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.pdb
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.genruntimeconfig.cache
+C:\Users\stive\Downloads\projeto-cursos_t\projeto-cursos\projeto-cursos\obj\Debug\net8.0\ref\projeto-cursos.dll
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.exe
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.deps.json
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.runtimeconfig.json
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.dll
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.pdb
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.AssemblyInfo.cs
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.dll
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\refint\projeto-cursos.dll
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.pdb
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.genruntimeconfig.cache
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\ref\projeto-cursos.dll
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.exe
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.deps.json
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.runtimeconfig.json
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.dll
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.pdb
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.AssemblyInfo.cs
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.dll
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\refint\projeto-cursos.dll
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.pdb
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.genruntimeconfig.cache
+C:\Users\aluno\Downloads\projeto-cursos\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\ref\projeto-cursos.dll
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.exe
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.deps.json
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.runtimeconfig.json
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.dll
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.pdb
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.AssemblyInfoInputs.cache
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.AssemblyInfo.cs
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.csproj.CoreCompileInputs.cache
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.dll
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\refint\projeto-cursos.dll
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.pdb
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.genruntimeconfig.cache
+C:\ifsp\estrutura de dados\edd2\ARQUIVOS LOCAIS\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\ref\projeto-cursos.dll
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.exe
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.deps.json
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.runtimeconfig.json
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.dll
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\bin\Debug\net8.0\projeto-cursos.pdb
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.AssemblyInfoInputs.cache
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.AssemblyInfo.cs
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.csproj.CoreCompileInputs.cache
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.dll
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\refint\projeto-cursos.dll
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.pdb
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\projeto-cursos.genruntimeconfig.cache
+C:\Users\stive\Downloads\projeto-cursos (2)\projeto-cursos\projeto-cursos\projeto-cursos\obj\Debug\net8.0\ref\projeto-cursos.dll
